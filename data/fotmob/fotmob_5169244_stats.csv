@@ -1,0 +1,36 @@
+seccion,metrica,clave,local,visitante,formato
+Top stats,Ball possession,BallPossesion,63,37,integer
+Top stats,Total shots,total_shots,20,5,integer
+Top stats,Shots on target,ShotsOnTarget,4,2,integer
+Top stats,Big chances,big_chance,1,2,integer
+Top stats,Big chances missed,big_chance_missed_title,0,0,
+Top stats,Accurate passes,accurate_passes,407 (86%),201 (71%),integerWithPercentage
+Top stats,Fouls committed,fouls,14,15,integer
+Top stats,Corners,corners,2,2,integer
+Shots,Total shots,total_shots,20,5,integer
+Shots,Shots off target,ShotsOffTarget,10,2,integer
+Shots,Shots on target,ShotsOnTarget,4,2,integer
+Shots,Blocked shots,blocked_shots,6,1,integer
+Shots,Hit woodwork,shots_woodwork,0,0,integer
+Shots,Shots inside box,shots_inside_box,9,3,integer
+Shots,Shots outside box,shots_outside_box,11,2,integer
+Passes,Passes,passes,475,284,integer
+Passes,Accurate passes,accurate_passes,407 (86%),201 (71%),integerWithPercentage
+Passes,Own half,own_half_passes,160,114,
+Passes,Opposition half,opposition_half_passes,247,87,
+Passes,Accurate long balls,long_balls_accurate,34 (71%),20 (39%),integerWithPercentage
+Passes,Accurate crosses,accurate_crosses,5 (28%),1 (17%),integerWithPercentage
+Passes,Throws,player_throws,16,12,integer
+Passes,Touches in opposition box,touches_opp_box,19,5,
+Passes,Offsides,Offsides,1,1,integer
+Defence,Tackles,matchstats.headers.tackles,6,9,integer
+Defence,Interceptions,interceptions,16,15,integer
+Defence,Blocks,shot_blocks,0,6,integer
+Defence,Clearances,clearances,6,22,integer
+Defence,Keeper saves,keeper_saves,0,1,integer
+Duels,Duels won,duel_won,36,40,integer
+Duels,Ground duels won,ground_duels_won,25 (47%),28 (53%),integerWithPercentage
+Duels,Aerial duels won,aerials_won,11 (48%),12 (52%),integerWithPercentage
+Duels,Successful dribbles,dribbles_succeeded,6 (60%),5 (56%),integerWithPercentage
+Discipline,Yellow cards,yellow_cards,1,4,integer
+Discipline,Red cards,red_cards,0,0,integer

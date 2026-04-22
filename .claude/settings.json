@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/opt/anaconda3/bin/python -c ':*)",
+      "Bash(/opt/anaconda3/bin/python commands/scrape_fotmob.py 5161868 --output-dir data/fotmob)"
+    ],
+    "additionalDirectories": [
+      "/Users/enzoftware/Projects/football-ds/data/fotmob"
+    ]
+  }
+}
